@@ -3,7 +3,7 @@
 
 ## Running the Code
 
-### Prerequisites
+### Required Libraries
 ```bash
 pip(3) install matplotlib pandas
 ```
